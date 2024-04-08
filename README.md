@@ -1,7 +1,4 @@
 # Contenidos
-
-Esta guía proporciona los pasos detallados para crear un repositorio en GitHub
-
 ---
 ## [Github](new-repository/new-repository.md)
   -  Crear un repositorio en GitHub
